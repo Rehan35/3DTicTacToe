@@ -16,7 +16,7 @@ java TicTacToe -first 4 (indicates CPU goes first and to traverse down 4 plies)
 # Input
 x : indicates what row the user wants to place their piece on.\
 y : indicates what column the user wants to place their piece on.\
-z : indicates the level (1,2,3) of which to place the piece on.\
+z : indicates the level (1,2,3) of which to place the piece on.
 
 # Output
 Computer will reun the algorithm and output the next game state with the CPU's move\
